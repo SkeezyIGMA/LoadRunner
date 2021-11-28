@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\artem\Documents\VuGen\Scripts\d4t5
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artem\documents\vugen\scripts\d4t5\\logfile.log
+c:\users\artem\documents\vugen\scripts\d4t5\\combined_d4t5.c
+c:\users\artem\documents\vugen\scripts\d4t5\\pre_cci.c

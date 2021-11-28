@@ -1,0 +1,15 @@
+[parameter:A]
+CurrentValue=""
+IsServer="NO"
+OriginalValue=""
+ParamName="A"
+Prompt=""
+Type="Custom"
+[parameter:rand]
+Format="%lu"
+GenerateNewVal="EachOccurrence"
+MaxValue="100"
+MinValue="1"
+OriginalValue=""
+ParamName="rand"
+Type="Random"
